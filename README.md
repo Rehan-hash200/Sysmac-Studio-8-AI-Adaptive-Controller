@@ -1,5 +1,3 @@
-# Sysmac V14 Ultra Rapi MAX PRO – 8‑AI Ensemble Controller
-
 > **OMRON SYSMAC Structured Text** – Advanced process control integrating 8 AI architectures (Liquid, KAN, Mamba, Koopman, Transformer, PINN, MoE, Diffusion) with online Reinforcement Learning.
 
 ## ✨ Key Features
