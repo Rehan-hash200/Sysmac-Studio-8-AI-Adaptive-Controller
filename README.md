@@ -2,8 +2,6 @@
 
 > **OMRON SYSMAC Structured Text** – Advanced process control integrating 8 AI architectures (Liquid, KAN, Mamba, Koopman, Transformer, PINN, MoE, Diffusion) with online Reinforcement Learning.
 
-![Fix Screenshot](https://via.placeholder.com/800x400?text=SP+2200+PV+2199.7+K+24.2+T+16.8)
-
 ## ✨ Key Features
 - **8 AI ensembles** fused in a single PLC control loop.
 - **Online learning** (LMS + RL reward) with weight bounds `0.1..10`.
